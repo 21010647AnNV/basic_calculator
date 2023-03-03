@@ -1,7 +1,6 @@
-# calculator
 
-#Goal
-- Them vao pubspec.yaml math_expressions: ^2.3.1
+# Goal
+- Them vao pubspec.yaml: math_expressions: ^2.3.1
 - Hoac command: dart pub run math_expressions:interpreter
 A new Flutter project.
 
